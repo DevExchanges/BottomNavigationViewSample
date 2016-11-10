@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/songs"
+        android:icon="@drawable/song"
+        android:title="All songs" />
+    <item
+        android:id="@+id/genre"
+        android:icon="@drawable/genre"
+        android:title="Genres" />
+    <item
+        android:id="@+id/album"
+        android:icon="@drawable/album"
+        android:title="Albums" />
+    <item
+        android:id="@+id/artist"
+        android:icon="@drawable/artist"
+        android:title="Artists" />
+</menu>
